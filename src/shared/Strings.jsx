@@ -1,0 +1,4 @@
+export default {
+    ABOUT_HEADING: "hi! my name is Suhyeon.\n",
+    ABOUT_DESC: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat et ipsum efficitur viverra. Aliquam eget pretium massa. Aenean et nibh risus. Quisque vel ex nunc. Curabitur ornare hendrerit ligula. Aliquam porta condimentum nunc. Donec vitae odio nibh. Curabitur nunc nisi, pretium vitae nibh ut, tincidunt tristique ex. Quisque vel rhoncus nulla, vitae mattis risus. Pellentesque tincidunt, sapien eu imperdiet sodales, tellus nisi mollis nibh, eget gravida dui ligula sit amet tortor. Praesent ut risus eu magna eleifend ultrices eget sed dui. Suspendisse lacinia leo ac justo fringilla aliquam."
+}
