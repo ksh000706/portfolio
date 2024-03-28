@@ -33,7 +33,7 @@ function Navbar() {
         <div className={`${sticky ? 'md:backdrop-blur-md':'bg-blue-900 text-blue-900'} text-white md:block hidden px-7 py-2 rounded-bl-full`}>
           <ul className='flex items-center gap-1 py-2 text-lg'>
             {menuLinks?.map((menu, i) => (
-                <li key={i} className='px-6 hover:underline'>
+                <li key={i} className='text-white px-6 hover:underline'>
                   <a className={`${sticky ? 'visited:text-blue-900/60': 'visited:text-white'}`} href={menu?.link}>{menu?.name}</a>
                 </li>
               ))
