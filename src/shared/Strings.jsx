@@ -1,4 +1,4 @@
 export default {
-    ABOUT_HEADING: "hi! my name is Suhyeon.\n",
-    ABOUT_DESC: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat et ipsum efficitur viverra. Aliquam eget pretium massa. Aenean et nibh risus. Quisque vel ex nunc. Curabitur ornare hendrerit ligula. Aliquam porta condimentum nunc. Donec vitae odio nibh. Curabitur nunc nisi, pretium vitae nibh ut, tincidunt tristique ex. Quisque vel rhoncus nulla, vitae mattis risus. Pellentesque tincidunt, sapien eu imperdiet sodales, tellus nisi mollis nibh, eget gravida dui ligula sit amet tortor. Praesent ut risus eu magna eleifend ultrices eget sed dui. Suspendisse lacinia leo ac justo fringilla aliquam."
+    ABOUT_HEADING: "a design student.\n",
+    ABOUT_DESC: "Hello and welcome to my portfolio! I am a second year university student majoring in Interactive Arts and Technology at Simon Fraser University. As a former Computing Science student aiming to minor in Computing Science, it is my goal as a designer to find the harmony between design thinking and computational thinking to effectively express the aesthetics in simplicity."
 }
