@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';   
 
 function Introduction() {
   return (
@@ -13,6 +13,6 @@ function Introduction() {
       </h2>
     </div>
   )
-}
+};
 
-export default Introduction
+export default Introduction;

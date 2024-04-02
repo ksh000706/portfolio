@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { TiThMenu } from "react-icons/ti";
 import { CiMenuKebab } from "react-icons/ci";
 import ThemeSwitcher from './ThemeSwitcher';
 
