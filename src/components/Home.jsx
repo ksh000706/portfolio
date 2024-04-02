@@ -6,7 +6,7 @@ import Projects from './Projects';
 
 function Home() {
   return (
-    <div>
+    <div className='w-screen'>
         <Navbar />
         <div className='self-auto bg-white dark:bg-blue-950'>
             <Introduction />
